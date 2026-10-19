@@ -26,5 +26,6 @@ Along with the coding tutorials I watched, I used Gemini to check my code for an
 
 <img width="1523" height="757" alt="Screenshot 2026-10-07 125904" src="https://github.com/user-attachments/assets/faea6931-56f1-4b66-85b7-86ccabc53821" />
 <img width="1632" height="938" alt="Screenshot 2026-10-07 194138" src="https://github.com/user-attachments/assets/43d527cd-a753-4531-9c78-6293b4cdec3d" />
-<img width="1916" height="1020" alt="Screenshot 2026-10-07 194426" src="https://github.com/user-attachments/assets/a9a07705-deef-4811-a322-a5e6db2ef67e" />
+<img width="1916" height="1020" alt="Screenshot 2026-10-07 194426" src="https://github.com/user-attachments/assets/a9a07705-deef-4811-a322-a5e6db2ef67e" /><img width="1176" height="777" alt="Screenshot 2026-10-18 223114" src="https://github.com/user-attachments/assets/1d04f695-55a5-444b-a170-0c7de748c4cf" />
+
 
