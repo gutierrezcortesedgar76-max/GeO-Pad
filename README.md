@@ -1,5 +1,5 @@
 # GeO-Pad
-A 3 key macropad with a pet that you can see while playing Geometry Dash or use for other things. It includes a oled screen so you can have a little pet while raging and making stuff ;)
+A 3 key macropad with a pet that you can see while playing Geometry Dash or use for other things. It allows users to play comfortably without hurting their wrist on laptop corners such as me and aloows easy portability unlike a 60% mechanical keyboard. It includes a oled screen so you can have a little pet while raging and making stuff ;)
 # Software
 1. KiCad-I used KiCad to actually design the Schematic and the PCB itself
 2. PyCharm-This is where I wrote the code for the GeO-Pad while following tutorials on youtube (first time coding)
