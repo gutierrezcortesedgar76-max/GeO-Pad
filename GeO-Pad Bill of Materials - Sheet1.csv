@@ -1,9 +1,0 @@
-,,,,,,
-,Bill of Materials,,,,,
-,,,,,,
-,Part Name,Description,Quantity,Unit Price,Total Price,Vendor
-,RP2040 pro micro,The main brain for the project!,1,$2.00,$2.00,Aliexpress
-,DO-35 Diodes,DC curent,1,$4.00,$4.00,amazon
-,128x64 oled screen,display,1,$5.00,$5.00,geekworm
-,Tax & shipping,for the whole order,,,$0.00,
-,Total,,,,$11.00,
