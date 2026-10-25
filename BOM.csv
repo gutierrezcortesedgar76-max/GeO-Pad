@@ -1,9 +1,6 @@
-,,,,,,
-,Bill of Materials,,,,,
-,,,,,,
-,Part Name,Description,Quantity,Unit Price,Total Price,Vendor
-,RP2040 pro micro,The main brain for the project!,1,$2.00,$2.00,Aliexpress
-,DO-35 Diodes,DC curent,1,$4.00,$4.00,amazon
-,128x64 oled screen,display,1,$5.00,$5.00,geekworm
-,Tax & shipping,for the whole order,,,$0.00,
-,Total,,,,$11.00,
+Item,Qty,Supplier,Cost/item,Total Cost,link
+RP2040 pro micro,1,Aliexpress,$2.00,$2.00,https://www.aliexpress.us/item/3256806781060135.html?src=google&src=google&albch=shopping&acnt=708-803-3821&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en3256806781060135&ds_e_product_merchant_id=5762056048&ds_e_product_country=US&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=19558607238&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=19566915268&gbraid=0AAAAAD6I-hHFuM5JDl6TUJptf0ACTEZmz&gclid=CjwKCAjw25fWBhAVEiwAMopNjlyufh_ijJvVy_PywzVok832ihfuf9-1KMYrm4mJodwwldlTehrMBhoCP3MQAvD_BwE&gatewayAdapt=glo2usa
+DO-35 Diodes,1,amazon,$4.00,$4.00,https://www.amazon.com/1N4148-Sealed-Switching-Electronic-Silicon/dp/B0DS1JLQ1X?th=1
+128x64 oled screen,1,geekworm,$5.00,$5.00,https://geekworm.com/products/0-96-inch-oled?srsltid=AU7gw4X4595XJoicfSWN-w5RxvtSj3fx9DkIDwHyd9mX74WIFRMzGBiPOB4
+MK Switches,1,amazon,$5.00,$5.00,https://www.amazon.com/gp/product/B0DSHTPSL3/ref=ox_sc_act_title_1?smid=A2DIR94OPZHM1S&psc=1
+Estimated total shipping,1,,,$0.00,

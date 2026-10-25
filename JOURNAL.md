@@ -4,9 +4,9 @@
 <!-- Generated: 2026-10-08T02:03:48.884Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvzt8hu03se01os3mnq804e). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> a 3 key Macropad that can be used to play geometry dash. will include screen
+> a 3 key Macropad that can be used to play geometry dash or can be used for shortcuts. It has a screen so you can load up images!
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
@@ -27,19 +27,19 @@
 
 I have started on the PCB design on KiCad and Ive watched youtube videos since it was my first time making a PCB. My work deleted so I had to restart but finished the PCB in  just under 7 hours! Im so excited to start CADing the case!
 
-![Screenshot 2026-10-05 214932](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/f7144204b6d3facd908361ccff392a0a7318f8d16f70dcd72c201892cdd0cc04.png)
+![Screenshot 2026-10-05 214932](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/f7144204b6d3facd908361ccff392a0a7318f8d16f70dcd72c201892cdd0cc04.png)
 
-![Screenshot 2026-10-05 214714](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/513b058d424708b35de9da5f0c43a9e1f751993e3f8ca6906b4fdfa99979cf0f.png)
+![Screenshot 2026-10-05 214714](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/513b058d424708b35de9da5f0c43a9e1f751993e3f8ca6906b4fdfa99979cf0f.png)
 
-![Screenshot 2026-10-05 214659](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/144f276c4eb954fd6c0bf24a177960917b94551182eb93de36ca9651cac8013e.png)
+![Screenshot 2026-10-05 214659](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/144f276c4eb954fd6c0bf24a177960917b94551182eb93de36ca9651cac8013e.png)
 
-![Screenshot 2026-10-05 214641](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/6a8deab353f7fedb53175d2b8dde9cdf0c9dded24b259b654f1124ef1d294919.png)
+![Screenshot 2026-10-05 214641](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/6a8deab353f7fedb53175d2b8dde9cdf0c9dded24b259b654f1124ef1d294919.png)
 
-![Screenshot 2026-10-05 215004](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/19ff16931241a9e392ec34f017e237c52862f936793b4a56dd2463beb1054c5f.png)
+![Screenshot 2026-10-05 215004](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/19ff16931241a9e392ec34f017e237c52862f936793b4a56dd2463beb1054c5f.png)
 
-![Screenshot 2026-10-05 215137](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/2fa667b69e53a01420f886eeca0fc3fbc63f2266ca68e92fadf58ee26c77932e.png)
+![Screenshot 2026-10-05 215137](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/2fa667b69e53a01420f886eeca0fc3fbc63f2266ca68e92fadf58ee26c77932e.png)
 
-![Screenshot 2026-10-05 215158](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/678ec663f0d016b9c0054d4f5f4bd946aec07e0c56e052e15594f968e85bc8fe.png)
+![Screenshot 2026-10-05 215158](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/678ec663f0d016b9c0054d4f5f4bd946aec07e0c56e052e15594f968e85bc8fe.png)
 
 ### 2026-10-06 – This my second entry for my project. I havent done much because today was a research day and I was making a robot. I have started putting the oled screen on the keyboard and started wiring. Hopefully
 
@@ -47,9 +47,9 @@ I have started on the PCB design on KiCad and Ive watched youtube videos since i
 
 This my second entry for my project. I havent done much because today was a research day and I was making a robot. I have started putting the oled screen on the keyboard and started wiring. Hopefully I get more done tomorrow
 
-![Screenshot 2026-10-06 214604](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/7d46e2c125204fec2b219b0d4d91cb73a3e7c72f2e65ed58c1c1a1b48305b4d0.png)
+![Screenshot 2026-10-06 214604](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/7d46e2c125204fec2b219b0d4d91cb73a3e7c72f2e65ed58c1c1a1b48305b4d0.png)
 
-![Screenshot 2026-10-06 214717](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/9b214ec31f42495898c44a3630488e536fad4e256abd1fa9a39d5a758bf95737.png)
+![Screenshot 2026-10-06 214717](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/9b214ec31f42495898c44a3630488e536fad4e256abd1fa9a39d5a758bf95737.png)
 
 ### 2026-10-07 – This is my 2nd session working and I got to say, Ive learned some new stuff that I can use in the future. Ive replace the main board that ive had in the begininng to a RP2040 Pro micro because it gave
 
@@ -57,23 +57,23 @@ This my second entry for my project. I havent done much because today was a rese
 
 This is my 2nd session working and I got to say, Ive learned some new stuff that I can use in the future. Ive replace the main board that ive had in the begininng to a RP2040 Pro micro because it gave me the ports I needed to complete the project. ive added a oled screen so you can have apet while you are playing the game. Ive imported the pcb to Onshape to start designing the case for the GeO-Pad!
 
-![Screenshot 2026-10-06 214512](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/afe93dbc98f49104f419bf2a62bbe538259f3464aeaab7dda1dfa753967993b0.png)
+![Screenshot 2026-10-06 214512](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/afe93dbc98f49104f419bf2a62bbe538259f3464aeaab7dda1dfa753967993b0.png)
 
-![Screenshot 2026-10-06 214604](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/7d46e2c125204fec2b219b0d4d91cb73a3e7c72f2e65ed58c1c1a1b48305b4d0.png)
+![Screenshot 2026-10-06 214604](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/7d46e2c125204fec2b219b0d4d91cb73a3e7c72f2e65ed58c1c1a1b48305b4d0.png)
 
-![Screenshot 2026-10-07 125904](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/f35e47abb904f61922d7b8f534b457627f232a5c538c59a5b233061128c74a8e.png)
+![Screenshot 2026-10-07 125904](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/f35e47abb904f61922d7b8f534b457627f232a5c538c59a5b233061128c74a8e.png)
 
-![Screenshot 2026-10-07 194426](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/c4f63a83d16e4d5348dfd172eebc0f08559965cf821db84969d6dc18ed1e0d7d.png)
+![Screenshot 2026-10-07 194426](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/c4f63a83d16e4d5348dfd172eebc0f08559965cf821db84969d6dc18ed1e0d7d.png)
 
-![Screenshot 2026-10-07 194138](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/de3483697fca28255d3b003e481ac8ac78466e2061ee6c9da457b3d9d28d6474.png)
+![Screenshot 2026-10-07 194138](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/de3483697fca28255d3b003e481ac8ac78466e2061ee6c9da457b3d9d28d6474.png)
 
-![Screenshot 2026-10-07 112534](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/80fe29ec5d64e542e9b8fe57fe7b0f9f988d5c03e611006b46557f8553ad497e.png)
+![Screenshot 2026-10-07 112534](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/80fe29ec5d64e542e9b8fe57fe7b0f9f988d5c03e611006b46557f8553ad497e.png)
 
-![Screenshot 2026-10-07 194124](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/67ba4cf9ea1b21b9a669a21d609ecf87af0ba0aaef93a7163b3c0b70608b4294.png)
+![Screenshot 2026-10-07 194124](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/67ba4cf9ea1b21b9a669a21d609ecf87af0ba0aaef93a7163b3c0b70608b4294.png)
 
-![Screenshot 2026-10-05 214641](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/6a8deab353f7fedb53175d2b8dde9cdf0c9dded24b259b654f1124ef1d294919.png)
+![Screenshot 2026-10-05 214641](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/6a8deab353f7fedb53175d2b8dde9cdf0c9dded24b259b654f1124ef1d294919.png)
 
-![Screenshot 2026-10-07 112433](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/054874e57793785c699a439e4dc7e5de8684d2adf95ff7cec3c7cff79f7d2122.png)
+![Screenshot 2026-10-07 112433](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/054874e57793785c699a439e4dc7e5de8684d2adf95ff7cec3c7cff79f7d2122.png)
 
 ### 2026-10-07 – now that the hardware section was done, I moved to the firmware. I did research on how to code since this was my first time coding a macro pad and a oled screen. What i have so far is a basic code for
 
@@ -81,10 +81,10 @@ This is my 2nd session working and I got to say, Ive learned some new stuff that
 
 now that the hardware section was done, I moved to the firmware. I did research on how to code since this was my first time coding a macro pad and a oled screen. What i have so far is a basic code for the keys and for the screen to display basic text. In the future I want to add a feature to allow users to add any images they want on the screen, but ill need more research for that!
 
-![Screenshot 2026-10-07 220143](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/1835e928ef0ffd7a56a5a5a088a190531ea9fc9ecdb7958a71dc2bd5bb6eaf5b.png)
+![Screenshot 2026-10-07 220143](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/1835e928ef0ffd7a56a5a5a088a190531ea9fc9ecdb7958a71dc2bd5bb6eaf5b.png)
 
-![Screenshot 2026-10-07 220153](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/a0ffb42913838e0fa86d2b16190a3a4c1057a06cc74204cefc7663614e51c667.png)
+![Screenshot 2026-10-07 220153](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/a0ffb42913838e0fa86d2b16190a3a4c1057a06cc74204cefc7663614e51c667.png)
 
-![Screenshot 2026-10-07 220228](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/7c60ea7ad2cae9680a036f7e7c9cb56f0d7995c37b521778c6c4e49a03a1489e.png)
+![Screenshot 2026-10-07 220228](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/7c60ea7ad2cae9680a036f7e7c9cb56f0d7995c37b521778c6c4e49a03a1489e.png)
 
-![Screenshot 2026-10-07 220303](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/e181583783010f9751ed251f508731fb75b61a94c15e7cd4ce737369e5e00bcd.png)
+![Screenshot 2026-10-07 220303](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/e181583783010f9751ed251f508731fb75b61a94c15e7cd4ce737369e5e00bcd.png)
