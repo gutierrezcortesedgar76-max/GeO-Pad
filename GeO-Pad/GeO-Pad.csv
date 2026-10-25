@@ -1,0 +1,4 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet","Description"
+"D1,D2,D3,S1,S2,S3","6","","","","","","",""
+"J2","1","OLED_128x64","","","","ScottoKeebs_Components:OLED_128x64","",""
+"U1","1","RP2040_Pro_Micro","","","","ScottoKeebs_MCU:RP2040_Pro_Micro","",""
