@@ -24,10 +24,10 @@ Along with the coding tutorials I watched, I used Gemini to check my code for an
 | **Tax & shipping** | — | — | — | **$0.00** | — |
 | **Total** | — | — | — | **$11.00** | — |
 
-<img width="1523" height="757" alt="Screenshot 2026-10-07 125904" src="https://github.com/user-attachments/assets/faea6931-56f1-4b66-85b7-86ccabc53821" />
-<img width="1632" height="938" alt="Screenshot 2026-10-07 194138" src="https://github.com/user-attachments/assets/43d527cd-a753-4531-9c78-6293b4cdec3d" />
-<img width="1916" height="1020" alt="Screenshot 2026-10-07 194426" src="https://github.com/user-attachments/assets/a9a07705-deef-4811-a322-a5e6db2ef67e" />
-<img width="743" height="491" alt="Screenshot 2026-10-24 234105" src="https://github.com/user-attachments/assets/6aa03c59-dd95-4e88-8e71-5de0a7a291ef" />
+<img width="743" height="491" alt="Screenshot 2026-10-24 234105" src="https://github.com/user-attachments/assets/48b57f6a-a0d3-48df-88fd-a8860be7b5fb" />
+<img width="977" height="675" alt="Screenshot 2026-10-25 094928" src="https://github.com/user-attachments/assets/bd8573c0-2937-4784-922d-42cee71df676" />
+<img width="766" height="631" alt="Screenshot 2026-10-25 094850" src="https://github.com/user-attachments/assets/a87444b8-9f7a-4ecd-a193-7096f0a1491d" />
+<img width="817" height="500" alt="Screenshot 2026-10-25 094908" src="https://github.com/user-attachments/assets/56183ee8-e469-4fe9-bec5-3fa22bd82ef1" />
 
 
 
