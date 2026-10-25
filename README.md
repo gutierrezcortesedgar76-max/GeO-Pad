@@ -3,7 +3,7 @@ A 3 key macropad with a pet that you can see while playing Geometry Dash or use 
 # Software
 1. KiCad-I used KiCad to actually design the Schematic and the PCB itself
 2. PyCharm-This is where I wrote the code for the GeO-Pad while following tutorials on youtube (first time coding)
-3. Onshape- I used this to import the model just because
+3. Onshape- I used this to model the case and to import the model, https://cad.onshape.com/documents/ef6d16a207c5b8c174a817fd/w/876528ba5902b90e52078595/e/ea60b42722162e659b97915d?renderMode=0&uiState=6ade0d7e211ee294f06135e0
 # Instructions
 1.Save the standard ssd1306.py driver module to your RP2040 device via Thonny or VS Code.
 2.Flash the above script as main.py to run automatically on startup.
