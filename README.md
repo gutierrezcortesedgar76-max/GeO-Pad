@@ -1,14 +1,14 @@
 # GeO-Pad
-A 3 key macropad with a pet that you can see while playing Geometry Dash or use for other things. It includes a oled screen so you can have a little pet while raging ;)
+A 3 key macropad with a pet that you can see while playing Geometry Dash or use for other things. It includes a oled screen so you can have a little pet while raging and making stuff ;)
 # Software
 1. KiCad-I used KiCad to actually design the Schematic and the PCB itself
-2. PyCharm-This is where I wrote the code for the GeO-Pad while following tutorials on youtube (fist time coding)
+2. PyCharm-This is where I wrote the code for the GeO-Pad while following tutorials on youtube (first time coding)
 3. Onshape- I used this to import the model just because
 # Instructions
 1.Save the standard ssd1306.py driver module to your RP2040 device via Thonny or VS Code.
 2.Flash the above script as main.py to run automatically on startup.
 # A.I usage
-Along with the coding tutorials I watched, I used Gemini to check my code for any mistakes and I would fix it with the suggestions from Gemini.
+Along with the coding tutorials I watched, I used Gemini to check my code for any mistakes and I would fix it with the suggestions from Gemini. During the revision process, I used Gemini as a second set of eyes to check my connections of the board. 
 ## Geo-Pad – Bill of Materials
 
 | Week | Tier | Parts funding |
