@@ -26,7 +26,9 @@ Along with the coding tutorials I watched, I used Gemini to check my code for an
 
 <img width="743" height="491" alt="Screenshot 2026-10-24 234105" src="https://github.com/user-attachments/assets/48b57f6a-a0d3-48df-88fd-a8860be7b5fb" />
 <img width="977" height="675" alt="Screenshot 2026-10-25 094928" src="https://github.com/user-attachments/assets/bd8573c0-2937-4784-922d-42cee71df676" />
+This Image depicts the PCB layout of the main board with the connections and the components 
 <img width="766" height="631" alt="Screenshot 2026-10-25 094850" src="https://github.com/user-attachments/assets/a87444b8-9f7a-4ecd-a193-7096f0a1491d" />
+This is the schematic drawing and depicts how every component is connected to each other through wiring
 <img width="817" height="500" alt="Screenshot 2026-10-25 094908" src="https://github.com/user-attachments/assets/56183ee8-e469-4fe9-bec5-3fa22bd82ef1" />
 
 
